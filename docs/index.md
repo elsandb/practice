@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Velkommen til denne test-siden om koding i Python
+Jeg begynte å lære koding for noen dager siden. På sikt vil jeg lage en nettside 
+som er nyttig for helsepersonell. I mellomtiden lager jeg denne siden, der du kan 
+lese på norsk (/norwenglish) om basic koding.
 
-You can use the [editor on GitHub](https://github.com/elsandb/practice/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Hvordan komme i gang med koding på en veldig enkel måte?
+Gå inn på [replit.com](https://replit.com/) og opprett en konto gratis. Når du har 
+kommet inn på siden din - klikk på + tegnet øverst til høyre. Klikk på "Python" under 
+"Official Languages", og så skriver du inn det du vil kalle ditt første prosjekt 
+(f.eks. "Mitt_første_prosjekt"). Klikk på "create Repl" --- og du er i gang!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Du får opp to bokser. I den ene står det "1 Not sure...". Det er her du skal skrive koden din.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Oppgave 1
+(1) Skriv følgende:
+```print("Hello world!")```
 
-```markdown
-Syntax highlighted code block
+(2) Trykk på kanppen øverst på siden, der det står "Run".
+Kom det noe opp i den andre boksen (den som heter "Console")?
+```Hello world!```
+Sånn! Nå er du en del av gjengen.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elsandb/practice/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
