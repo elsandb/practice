@@ -23,10 +23,6 @@ Kom det noe opp i den andre boksen (den som heter "Console")?
 
 `Hello world!`  
 Sånn! Nå er du en del av gjengen.
-
----
-[test_py](C:\Users\elisa\Documents\GitHub\practice\docs\test_py.py)
-
 ---
 #### Liste i md:
 - To do 1
